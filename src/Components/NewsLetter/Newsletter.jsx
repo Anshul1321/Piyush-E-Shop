@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Newsletter.css"
+import "./NewsLetter.css"
 const Newsletter = () => {
   return (
     <div className='newsletter'>
